@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Muklas Rahmanto
+                    Abdurrahman Jaisy Muhammad
                 </div>
 
                 <div class="links">
-                    18/425973/SV/15115
+                    18/431728/SV/15699
                 </div>
             </div>
         </div>
