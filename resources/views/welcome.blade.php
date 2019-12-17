@@ -87,7 +87,7 @@
 
                 <div class="links">
                     <!-- ganti url dengan link github anda -->
-                    <a href="https://github.com/abdurrahmanjaisy">GitHub</a>
+                    <a href="https://github.com/abdurrahmanjaisy/responsiweb.git">GitHub</a>
                 </div>
             </div>
         </div>
